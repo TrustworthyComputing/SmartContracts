@@ -1,10 +1,10 @@
-# ChainSkills Truffle Box
+# Marketplace Truffle Box
+## An online marketplace for buying and selling goods
 
-This Truffle Box has all you need to create a DApp by following the course delivered by [ChainSkills](https://www.udemy.com/getting-started-with-ethereum-solidity-development/).
+### Overview
+A DApp for buying and selling items using a blockchain. One account can put an item up for sale by indicating its name, a description of the item, and its price, and another account can buy the item which then debits the buying account and credits the selling account.
 
-This box has been based from [pet-shop-box](https://github.com/truffle-box/pet-shop-box).
-
-## Installation
+### Installation
 
 1. Install Truffle globally.
     ```javascript
@@ -32,3 +32,9 @@ This box has been based from [pet-shop-box](https://github.com/truffle-box/pet-s
     // Serves the front-end on http://localhost:3000
     npm run dev
     ```
+
+#### Disclaimer
+This Truffle Box has all you need to create a DApp by following the course delivered by [ChainSkills](https://www.udemy.com/getting-started-with-ethereum-solidity-development/).
+
+This DApp has been based on [pet-shop-box](https://github.com/truffle-box/pet-shop-box).
+
