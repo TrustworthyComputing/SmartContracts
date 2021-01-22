@@ -1,5 +1,5 @@
 {
-  "name": "eBookie",
+  "name": "ChainList",
   "version": "0.0.1",
   "description": "",
   "main": "truffle.js",
@@ -10,12 +10,9 @@
     "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ryan Peterson",
+  "author": "ChainSkills",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.3.0"
-  },
-  "dependencies": {
-    "xmlhttprequest": "^1.8.0"
+    "lite-server": "^2.5.3"
   }
 }

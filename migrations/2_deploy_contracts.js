@@ -1,5 +1,5 @@
-var eBookie = artifacts.require("./eBookie.sol");
+var ChainList = artifacts.require("./ChainList.sol");
 
 module.exports = function(deployer) {
-  deployer.deploy(eBookie);
+  deployer.deploy(ChainList);
 }
